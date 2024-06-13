@@ -38,7 +38,7 @@
 
 ## Releases
 
-### [v2.2.4.7](https://github.com/ave-audio/ave-mixer-user-control/releases/tag/v2.2.4.7) - 2024-06-14
+### [v2.2.4.7](https://github.com/ave-audio/ave-mixer-user-control/releases/installer/v2.2.4.7) - 2024-06-14
 - Fixed and improved the mixer type check to avoid using the software with a mixer different from the one set in the project.
 - Modified the save preset command to force the updating of parameters in the DSP in MCU firmware version v1.7.6.
 - Improved management of pop-up windows to inform the user. A new pop-up window automatically closes the previous ones and does not pause the communication between PC and mixer.
@@ -47,7 +47,7 @@
 - Improved management of toast messages to signal the connection or disconnection between PC and mixer.
 - Improved the functionality of the Get Mixer Info command in the Info menu. The information pop-up closes any open pop-ups and does not pause communication. Also added the display of CPU load and refresh rate values ​​for Andante V2.0 mixers.
 
-### [v2.2.4.6](https://github.com/ave-audio/ave-mixer-user-control/releases/tag/v2.2.4.6) - 2024-05-11
+### [v2.2.4.6](https://github.com/ave-audio/ave-mixer-user-control/releases/installer/v2.2.4.6) - 2024-05-11
 - Create the structures (model and viemodel) relating to the Andante V2.0 mixer.
 - Added compressor gain value readout for input and output compressors.
 - Fixed closing of the antifeedback and spectrum analysis windows, the dispatcher timer was not stopped when closing the window with the x at the top. In this way, reading the peak values soon became extremely slow due to all the reading commands present.
