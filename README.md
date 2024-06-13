@@ -47,7 +47,7 @@
 - Improved management of toast messages to signal the connection or disconnection between PC and mixer.
 - Improved the functionality of the Get Mixer Info command in the Info menu. The information pop-up closes any open pop-ups and does not pause communication. Also added the display of CPU load and refresh rate values ​​for Andante V2.0 mixers.
 
-### [v2.2.4.6](https://github.com/ave-audio/ave-mixer-user-control/releases/installer/v2.2.4.6) - 2024-05-11
+### [v2.2.4.6](https://github.com/ave-audio/ave-mixer-user-control/releases/installer/v2.2.4.6/AVE Mixer User Control - V2.2.4.6.zip) - 2024-05-11
 - Create the structures (model and viemodel) relating to the Andante V2.0 mixer.
 - Added compressor gain value readout for input and output compressors.
 - Fixed closing of the antifeedback and spectrum analysis windows, the dispatcher timer was not stopped when closing the window with the x at the top. In this way, reading the peak values soon became extremely slow due to all the reading commands present.
