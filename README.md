@@ -98,6 +98,16 @@ Contact
 
 For any questions or suggestions, please open an issue on GitHub or contact us at info@ave-stuttgart.de.
 
+## Manufacturer
+
+**AVE GmbH**  
+Gustav-Rau-Str. 6  
+74321 - Bietigheim-Bissingen  
+Deutschland  
+Tel.: +49 7142-78879-0  
+Fax: +49 7142-78879-18  
+Email: info@ave-stuttgart.de
+
 *Made with* 💛 *by DSPSoft*
 
 
