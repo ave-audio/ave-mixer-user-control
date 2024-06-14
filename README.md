@@ -7,9 +7,9 @@
 ## Features
 
 - **User-Friendly Interface:** Simplified and intuitive GUI for easy navigation and control.
-- **Real-Time Adjustments:** Make real-time adjustments to audio and video settings without interrupting the ongoing stream or playback.
+- **Real-Time Adjustments:** Make real-time adjustments to audio settings without interrupting the ongoing stream or playback.
 - **Custom Presets:** Save and load custom presets for different scenarios and environments.
-- **Multi-Platform Support:** Compatible with Windows.
+- **Platform Support:** Compatible with Windows.
 - **Extensive Control Options:** Full control over audio levels, input sources, and DSP effects.
 
 ## Installation
@@ -27,14 +27,20 @@
 3. Run the `setup.exe` file to start the AVE Mixer User Control software installation.
 4. Check your email for the serial key sent to you.
 5. When requested, type the given serial key.
-6. Wait for the installation to complete.
+6. If you're prompted for an administrator confirmation by Windows during installation, please provide confirmation.
+7. Wait for the installation to complete.
 
 ## Usage
 
 1. Launch the AVE Mixer User Control application from the Start menu or desktop shortcut.
-2. Use the intuitive controls to adjust audio settings as needed.
-3. Save your configurations as presets for future use.
-4. Explore advanced settings to fine-tune your audio experience.
+2. Set up the communication mode (Serial COM or TCP/IP) according to the model of the digital mixer.
+3. Create a new project by selecting one of the available mixers or open an existing project.
+4. Configure presets:
+   - Set up presets from default settings.
+   - Retrieve presets from the digital mixer and modify them as needed.
+5. Use intuitive DSP blocksets to adjust audio settings for each preset.
+6. Download and store presets on the digital mixer.
+7. Save the project with its presets locally on your PC for future use.
 
 ## Releases
 
