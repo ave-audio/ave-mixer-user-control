@@ -2,7 +2,7 @@
 
 ## Overview
 
-**AVE Mixer User Control** from AVE GmbH is a versatile and user-friendly interface designed to manage and control AVE audio digital mixer settings. It provides an intuitive graphical user interface (GUI) for configuring various parameters of your AVE digital mixer, enabling both novice and experienced users to optimize their audio setups with ease.
+**AVE Mixer User Control** from [AVE GmbH](https://ave-audio.de/en) is a versatile and user-friendly interface designed to manage and control AVE audio digital mixer settings. It provides an intuitive graphical user interface (GUI) for configuring various parameters of your AVE digital mixer, enabling both novice and experienced users to optimize their audio setups with ease.
 
 ## Features
 
