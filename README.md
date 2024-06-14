@@ -6,7 +6,7 @@
 
 ## Features
 
-- **User-Friendly Interface:** Simplified and intuitive GUI for easy navigation and control.
+- **User-Friendly Interface:** Simplified and intuitive .NET GUI for easy navigation and control.
 - **Real-Time Adjustments:** Make real-time adjustments to audio settings without interrupting the ongoing stream or playback.
 - **Custom Presets:** Save and load custom presets for different scenarios and environments.
 - **Platform Support:** Compatible with Windows.
