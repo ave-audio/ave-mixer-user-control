@@ -83,6 +83,6 @@ Contact
 
 For any questions or suggestions, please open an issue on GitHub or contact us at info@ave-stuttgart.de.
 
-*Made with* 💛 *by DSPSoft - Romanin Matteo*
+*Made with* 💛 *by DSPSoft*
 
 
