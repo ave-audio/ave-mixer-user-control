@@ -23,7 +23,7 @@
 ### Steps
 
 1. **Before installing, uninstall any previous versions of the AVE Mixer User Control using the Windows uninstallation process.**
-2. Download the AVE Mixer User Control zip file from the repository.
+2. Download the AVE Mixer User Control zip file from the [Releases](#releases) section below.
 3. Unzip the zip file inside a temporary folder on your Windows PC.
 4. Run the `setup.exe` file to start the AVE Mixer User Control software installation.
 5. Check your email for the serial key sent to you.
