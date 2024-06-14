@@ -22,13 +22,14 @@
 
 ### Steps
 
-1. Download the AVE Mixer User Control zip file from the repository.
-2. Unzip the zip file inside a temporary folder on your Windows PC.
-3. Run the `setup.exe` file to start the AVE Mixer User Control software installation.
-4. Check your email for the serial key sent to you.
-5. When requested, type the given serial key.
-6. If you're prompted for an administrator confirmation by Windows during installation, please provide confirmation.
-7. Wait for the installation to complete.
+1. **Before installing, uninstall any previous versions of the AVE Mixer User Control using the Windows uninstallation process.**
+2. Download the AVE Mixer User Control zip file from the repository.
+3. Unzip the zip file inside a temporary folder on your Windows PC.
+4. Run the `setup.exe` file to start the AVE Mixer User Control software installation.
+5. Check your email for the serial key sent to you.
+6. When requested, type the given serial key.
+7. If you're prompted for an administrator confirmation by Windows during installation, please provide confirmation.
+8. Wait for the installation to complete.
 
 ## Usage
 
@@ -44,7 +45,9 @@
 
 ## Releases
 
-### [v2.2.4.7](https://github.com/ave-audio/ave-mixer-user-control/releases/installer/v2.2.4.7) - 2024-06-14
+**Before installing the new version of AVE Mixer User Control software, it is strongly recommended to uninstall any previous versions using the Windows uninstallation process. This ensures proper removal of existing software components and prevents potential conflicts during the installation of the updated version.**
+
+### [v2.2.4.7](https://github.com/ave-audio/ave-mixer-user-control/raw/main/releases/installer/v2.2.4.7/AVE%20Mixer%20User%20Control%20-%20V2.2.4.7.zip) - 2024-06-14
 - Fixed and improved the mixer type check to avoid using the software with a mixer different from the one set in the project.
 - Modified the save preset command to force the updating of parameters in the DSP in MCU firmware version v1.7.6.
 - Improved management of pop-up windows to inform the user. A new pop-up window automatically closes the previous ones and does not pause the communication between PC and mixer.
