@@ -108,6 +108,6 @@ Tel.: +49 7142-78879-0
 Fax: +49 7142-78879-18  
 Email: info@ave-stuttgart.de
 
-*Made with* 💛 *by DSPSoft*
+**All rights reserved 2024.**
 
 
