@@ -2,7 +2,7 @@
 
 ## Overview
 
-**AVE Mixer User Control** is a versatile and user-friendly interface designed to manage and control audio mixer settings. It provides an intuitive graphical user interface (GUI) for configuring various parameters of your AVE mixer, enabling both novice and experienced users to optimize their audio setups with ease.
+**AVE Mixer User Control** is a versatile and user-friendly interface designed to manage and control audio mixer settings. It provides an intuitive graphical user interface (GUI) for configuring various parameters of your AVE digital mixer, enabling both novice and experienced users to optimize their audio setups with ease.
 
 ## Features
 
@@ -42,6 +42,18 @@
 5. Use intuitive DSP blocksets to adjust audio settings for each preset.
 6. Download and store presets on the digital mixer.
 7. Save the project with its presets locally on your PC for future use.
+
+## Compatible AVE Digital Mixers
+
+The AVE Mixer User Control software is compatible with the following AVE digital mixers:
+
+- Andante 16 - V2.0
+- Andante 8 - V2.0
+- Andante 16
+- Andante 8
+- DMX66
+- DMV64
+- DMV96
 
 ## Releases
 
