@@ -73,8 +73,8 @@
 
 We encourage users to share their experiences, tips, and suggestions. If you have any questions or run into any issues, please let us know!
 
-- **Reporting Issues:** If you encounter any problems or have any suggestions, please open an issue in the [Issues](https://github.com/yourusername/AVE-Mixer-User-Control/issues) section.
-- **Sharing Tips and Suggestions:** Share your tips, best practices, or feature requests in the [Discussions](https://github.com/yourusername/AVE-Mixer-User-Control/discussions) section.
+- **Reporting Issues:** If you encounter any problems or have any suggestions, please open an issue in the [Issues](https://github.com/ave-audio/ave-mixer-user-control/issues) section.
+- **Sharing Tips and Suggestions:** Share your tips, best practices, or feature requests in the [Discussions](https://github.com/ave-audio/ave-mixer-user-control/discussions) section.
 
 ## License
 
