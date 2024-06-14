@@ -47,8 +47,8 @@
 
 The AVE Mixer User Control software is compatible with the following AVE digital mixers:
 
-- Andante 16 - V2.0
-- Andante 8 - V2.0
+- Andante 16 - v2.0
+- Andante 8 - v2.0
 - Andante 16
 - Andante 8
 - DMX66
