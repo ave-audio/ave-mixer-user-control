@@ -1,4 +1,5 @@
 # AVE Mixer User Control
+![AVE Mixer User Control SW - #1](https://github.com/ave-audio/ave-mixer-user-control/assets/172474325/d6cf051d-6261-4786-ba9e-0ef7c569a254)
 
 ## Overview
 
