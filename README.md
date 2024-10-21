@@ -44,6 +44,8 @@
 6. Download and store presets on the digital mixer.
 7. Save the project with its presets locally on your PC for future use.
 
+For more detailed instructions and additional usage tips, please refer to the [AVE Mixer User Control Wiki](https://github.com/ave-audio/ave-mixer-user-control/wiki).
+
 ## Compatible AVE Digital Mixers
 
 The AVE Mixer User Control software is compatible with the following AVE digital mixers:
